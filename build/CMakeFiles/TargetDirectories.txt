@@ -1,0 +1,3 @@
+/data/Github/My_OpenCV_Template/build/CMakeFiles/run_file.dir
+/data/Github/My_OpenCV_Template/build/CMakeFiles/edit_cache.dir
+/data/Github/My_OpenCV_Template/build/CMakeFiles/rebuild_cache.dir
